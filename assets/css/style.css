@@ -1,0 +1,50 @@
+h1{
+    font-size: 45px;
+    text-align: center; 
+}
+
+body{
+    background-image: url("https://cdn.wallpapersafari.com/72/77/Qseibw.jpg");
+    background-size: cover
+}
+
+.card{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.allCrystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.crystal{
+    border:1px solid red;
+    height: 100px;
+    width: 100px;
+}
+#result{
+    font-size: 25px;
+    text-align: center;
+}
+#last{
+    font-size: 25px;
+    text-align: center;
+}
+
+#wins{
+    font-size: 15px;
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+}
+
+#losses{
+    font-size: 15px;
+    text-align: center;
+    color: darkred;
+    font-weight: bolder;
+}
