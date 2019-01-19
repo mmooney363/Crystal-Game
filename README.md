@@ -1,4 +1,4 @@
-# Unit-4-Game
+# Crystal-Game
 This project is a math based game involving crystals.
 
 The player will be given a random target number at the beginning of the game.
